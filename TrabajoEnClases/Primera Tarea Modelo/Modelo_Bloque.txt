@@ -1,0 +1,14 @@
+🔸 Atributos del bloque:
+- tipo: define el contenido del bloque (por ejemplo: moneda, poder, vacío).
+- estado: indica si el bloque ha sido golpeado o no.
+- visible: determina si el bloque se muestra en pantalla.
+- posición: coordenadas dentro del mapa del juego.
+- animación: puede tener una animación al ser activado.
+
+🔸 Métodos del bloque:
+
+- golpear(): se activa cuando el jugador salta y golpea el bloque desde abajo.
+- activarContenido(): libera el contenido del bloque según su tipo.
+- ocultar(): cambia el estado del bloque para que no se muestre más.
+- renderizar(): dibuja el bloque en pantalla si está visible.
+- actualizarEstado(): modifica atributos internos según las acciones del jugador.

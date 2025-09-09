@@ -1,0 +1,96 @@
+✅Requerimientos Funcionales (¿Qué debe hacer la app?)
+Estos definen las funciones específicas que la app debe realizar para cumplir su propósito:
+
+Registro de actividad física: Contar pasos, calorías quemadas, distancia recorrida.
+
+Monitoreo de salud: Medir frecuencia cardíaca, sueño, estrés, oxígeno en sangre.
+
+Gestión de rutinas de ejercicio: Crear, modificar y seguir planes de entrenamiento.
+
+Seguimiento nutricional: Registrar alimentos, calcular calorías y macronutrientes.
+
+Sincronización con dispositivos externos: Integrarse con relojes inteligentes, bandas deportivas, básculas, etc.
+
+Alertas y recordatorios: Notificar al usuario sobre entrenamientos, hidratación o descanso.
+
+Visualización de datos: Mostrar gráficos, estadísticas y progresos diarios/semanales.
+
+Creación de perfiles de usuario: Permitir personalización según edad, peso, objetivos.
+
+Exportación de datos: Compartir informes con profesionales de salud o exportar a otros formatos.
+
+Integración con redes sociales o apps externas: Compartir logros o sincronizar con apps como Google Fit o Strava.
+
+❌ Requerimientos No Funcionales (¿Cómo debe comportarse la app?)
+Estos definen atributos de calidad que afectan la experiencia del usuario y el rendimiento del sistema:
+
+Usabilidad: Interfaz intuitiva, accesible para usuarios de todas las edades.
+
+Rendimiento: Respuesta rápida al registrar datos o mostrar estadísticas.
+
+Seguridad: Protección de datos personales y médicos mediante cifrado y autenticación.
+
+Escalabilidad: Capacidad para manejar más usuarios o funciones sin perder rendimiento.
+
+Compatibilidad: Funcionar correctamente en múltiples dispositivos y sistemas operativos.
+
+Disponibilidad: Alta disponibilidad del servicio, incluso en zonas con baja conectividad.
+
+Mantenibilidad: Código bien estructurado para facilitar actualizaciones y correcciones.
+
+Fiabilidad: Precisión en el registro de datos y estabilidad en el funcionamiento.
+
+Localización: Soporte para múltiples idiomas y unidades de medida.
+
+Consumo de batería: Optimización para no agotar la batería del dispositivo rápidamente.
+
+🧠 Mejores funciones para apps de Salud y Fitness
+1. Entrenamientos adaptativos con IA
+Personalizar rutinas según el progreso, estado físico y objetivos del usuario.
+
+Ajustar automáticamente la intensidad y duración de los ejercicios.
+
+2. Seguimiento de salud mental
+Integrar herramientas de meditación, control de estrés y estado emocional.
+
+Evaluaciones periódicas del bienestar psicológico.
+
+3. Reconocimiento de movimiento por cámara
+Usar la cámara del móvil para corregir posturas durante ejercicios.
+
+Detectar repeticiones y técnica en tiempo real.
+
+4. Integración con nutrición inteligente
+Escaneo de alimentos por cámara para registrar calorías y nutrientes.
+
+Sugerencias de recetas saludables según objetivos y restricciones dietéticas.
+
+5. Gamificación del progreso
+Desbloqueo de logros, retos semanales, niveles y recompensas virtuales.
+
+Competencias amistosas entre usuarios para motivación.
+
+6. Asistente por voz
+Controlar la app durante el entrenamiento sin tocar la pantalla.
+
+Recibir instrucciones, motivación o correcciones habladas.
+
+7. Análisis predictivo de salud
+Alertas sobre posibles riesgos (como fatiga, sobreentrenamiento o falta de sueño).
+
+Recomendaciones preventivas basadas en patrones de comportamiento.
+
+8. Sincronización con servicios médicos
+Compartir datos con profesionales de salud o clínicas.
+
+Generar informes automáticos para chequeos médicos.
+
+9. Soporte multilingüe y localización cultural
+Adaptar contenido, rutinas y consejos según idioma y cultura del usuario.
+
+Incluir unidades de medida locales y alimentos típicos.
+
+10. Modo offline inteligente
+Permitir el uso de funciones clave sin conexión.
+
+Sincronizar datos automáticamente cuando se recupere la conexión.
